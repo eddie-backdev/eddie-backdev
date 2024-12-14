@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=99eac1&text=Welcome%20to%20Eddie's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
 
 </div>-->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=243642&text=Backend%20Dev%20Eddie&textBg=false&fontColor=E2F1E7&fontSize=40&fontAlignY=45&animation=fadeIn&strokeWidth=0&desc=Heeyong%20Lee&descAlignY=63&descSize=30&fontAlign=47&descAlign=56"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Eddie's%20Github&textBg=false&fontColor=FFFFD9" />
 
 <!--<div align="center">
   <p><h1>$\huge{\color{#727272}Backend\ Developer\ \color{#f3f35c}Eddie's\ \color{#2ac5e8}Github 💻}$</h1></p>
