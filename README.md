@@ -1,9 +1,4 @@
-testlight
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=243642&text=Backend%20Dev%20Eddie&textBg=false&fontColor=E2F1E7&fontSize=40&fontAlignY=45&animation=fadeIn&strokeWidth=0&desc=Heeyong%20Lee&descAlignY=63&descSize=30&fontAlign=47&descAlign=56#gh-light-mode-only">
-
-testdark
-![GitHub-Mark-120px-plus](https://capsule-render.vercel.app/api?type=venom&height=300&color=243642&text=Backend%20Dev%20Eddie&textBg=false&fontColor=E2F1E7&fontSize=40&fontAlignY=45&animation=fadeIn&strokeWidth=0&desc=Heeyong%20Lee&descAlignY=63&descSize=30&fontAlign=47&descAlign=56#gh-dark-mode-only)
-
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=C9E9D2&text=Backend%20Dev%20Eddie&textBg=false&fontColor=789DBC&fontSize=40&fontAlignY=45&animation=fadeIn&desc=Heeyong%20Lee&descAlignY=63&descSize=30&fontAlign=47&descAlign=56"/>
 
 <div align="left">
   
@@ -11,12 +6,12 @@ testdark
 
 <p>
 안녕하세요! <strong>가능성을 현실로 만드는</strong> 백엔드 개발자, <strong>이희용 (Eddie)</strong>입니다.<br>
-아래와 같은 철학으로 항상 성장하는 개발자가 되기 위해 노력합니다:
+저는 아래와 같은 개발자 입니다.
 </p>
 
-- 🚀 **정확한 방향 설정**으로 목표 달성  
-- 🧗‍♂️ **실패를 두려워하지 않고**, 성공의 기회로 만들어가기  
-
+- 🚀 **실패를 두려워하지 않고**, 실패를 통해 **성장하는** 개발자
+- 💌 **적극적인** 소통을 통해 성장하는 개발자
+  
 <br><br>
 </div>
 
