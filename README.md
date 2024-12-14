@@ -4,14 +4,15 @@
 
 </div>-->
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Eddie's%20Github&textBg=false&fontColor=FFFFD9" />
 
-<div align="center">
+<!--<div align="center">
   <p><h1>$\huge{\color{#727272}Backend\ Developer\ \color{#f3f35c}Eddie's\ \color{#2ac5e8}Github 💻}$</h1></p>
   <!--<p>$\huge{\it{Backend\ Developer\ 💻}}$</p>
   <p>$\huge{Backend\ Developer\ 💻}$</p>-->
 </div>
 
-  <br>
+  
   <h2>🙈 안녕하세요 👀</h2>
   <p>$\bf{\bf{안녕하세요!\ \color{#cad0e7}가능성\color{#ffffff}을\ \color{#5ddf8a}현실\color{#ffffff}로\ 만드는\ \color{#727272}백엔드\ 개발자 \color{#f3f35c}\ Eddie \color{#FFFFFF}\ \color{#2ac5e8}이희용\ \color{#ffffff}입니다.}}$</p>
   <p>$\bf{\bf{\ \ \ •\ 정확한\ \color{#5fec87}방향\ 설정\ }}$</p>
