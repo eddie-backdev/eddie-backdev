@@ -13,7 +13,7 @@
 - 🏃‍♂️‍➡️ **새로운 도전**을 피하지 않고, **정면으로 승부하는** 개발자
 - 💌 **적극적인** 소통을 통해 성장하는 개발자
   
-<br><br>
+<br>
 </div>
 
 <div align="left">
@@ -35,7 +35,7 @@
   <br><br>
   
   ## 🧑‍💻 Contact me
-  <a href="[https://instagram.com/2._.hyong](https://www.instagram.com/2._.hyong/)"><img src="https://img.shields.io/badge/2.__.hyong-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/2._.hyong"><img src="https://img.shields.io/badge/2.__.hyong-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:devleehy@gmail.com"><img src="https://img.shields.io/badge/devleehy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:devleehy@gmail.com)]"/></a>
   <br><br>
 </div>
