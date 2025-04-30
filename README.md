@@ -5,20 +5,20 @@
 ## 👨‍💻 Backend Developer Eddie
 
 <p>
-안녕하세요! <strong>가능성을 현실로 만드는</strong> 백엔드 개발자, <strong>이희용 (Eddie)</strong>입니다.<br>
+안녕하세요! <strong>가능성을 현실로 만드는</strong> 백엔드 개발자, <strong>Eddie 이희용</strong>입니다.<br>
 저는 아래와 같은 개발자 입니다.
 </p>
 
-- 🚀 **실패를 두려워하지 않고**, 실패를 통해 **성장하는** 개발자
-- 🏃‍♂️‍➡️ **새로운 도전**을 피하지 않고, **정면으로 승부하는** 개발자
-- 💌 **적극적인** 소통을 통해 성장하는 개발자
+- 🚀   **실패를 두려워하지 않고**, 실패를 통해 **성장하는** 개발자
+- 🏃‍♂️‍➡️   **새로운 도전**을 피하지 않고, **정면으로 승부하는** 개발자
+- 💌   **적극적인** 소통을 통해 **함께 문제를 해결하는** 개발자
   
 <br>
 </div>
 
 <div align="left">
   
-  ## Teck Stack 📚  and  🧐 Interested In
+  ## 📚 Teck Stack  and  🧐 Interested In
 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
