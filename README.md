@@ -47,7 +47,7 @@
 <div align="left">
   
   ## 🏅 Stats
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devleehy)](https://solved.ac/devleehy)
+  <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devleehy)](https://solved.ac/devleehy) -->
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddie-backdev&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddie-backdev&langs_count=10&layout=compact&theme=radical)](https://github.com/eddie-backdev)
