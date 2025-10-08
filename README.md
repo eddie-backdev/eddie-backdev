@@ -5,7 +5,7 @@
 ## 👨‍💻 Backend Developer Eddie
 
 <p>
-안녕하세요! <strong>가능성을 현실로 만드는</strong> 백엔드 개발자, <strong>Eddie 이희용</strong>입니다.<br>
+안녕하세요! <strong>함께하고 싶은</strong> 개발자 <strong>Eddie 이희용</strong>입니다.<br>
 저는 아래와 같은 개발자 입니다.
 </p>
 
