@@ -27,10 +27,17 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
   <br><br>
 
-  ## 🛠️ Tool 🛠️
-  <img src="https://img.shields.io/badge/Apple-MacBook_M3_Pro_16-999999?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&color=212121"/>
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&color=212121"/>
+## 📖 Education & Achievements
+
+<div align="left">
+
+#### 🎓 LG U+ Eureka 백엔드 2기 (2025. 01. 20 ~ 2025. 08. 12)
+
+- **최종 융합 프로젝트 우수상 ([<ins>IT:PLACE</ins>](https://github.com/ureca-itPlace))**
+- **우수 훈련생 선정**
+
+</div>
+    
   <br><br>
   
   ## 🧑‍💻 Contact me
