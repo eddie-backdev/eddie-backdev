@@ -41,32 +41,29 @@
 
 <div align="left">
 
-#### 🎓 LG U+ Eureka 백엔드 2기 (2025. 01. 20 ~ 2025. 08. 12)
+  #### 🎓 LG U+ Eureka 백엔드 2기 (2025. 01. 20 ~ 2025. 08. 12)
 
-- **최종 융합 프로젝트 우수상 ([<ins>IT:PLACE</ins>](https://github.com/ureca-itPlace))**
-- **우수 훈련생**
+  - **최종 융합 프로젝트 우수상 ([<ins>IT:PLACE</ins>](https://github.com/ureca-itPlace))**
+  - **우수 훈련생**
   
+  <br>
+  
+  [![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=eddie-backdev&langs_count=10&layout=compact&theme=radical&langs_count=8)](https://github.com/eddie-backdev)
+
+  ![Eddie's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=eddie-backdev&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+  
+
 </div>
-    
-  <br><br>
+
+  <br>
   
   ## 🧑‍💻 Contact me
   <a href="https://instagram.com/2._.hyong" target="_blank"><img src="https://img.shields.io/badge/2.__.hyong-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:devleehy@gmail.com"><img src="https://img.shields.io/badge/devleehy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:devleehy@gmail.com)]"/></a>
-  <br><br>
-</div>
-
 
 <div align="center">
-
-  <br><br>
-  
-  [![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=eddie-backdev&langs_count=10&layout=compact&theme=radical&langs_count=8)](https://github.com/eddie-backdev)
-
-
-  ![Eddie's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=eddie-backdev&show_icons=true&include_all_commits=true&count_private=true&theme=radical&custom_title=Eddie%20Lee%E2%80%99s%20GitHub%20Statistics%20Overview%20Report)
-
+  <br>
   
   [![Hits](https://hits.sh/github.com/eddie-backdev.svg?view=today-total&color=9f9f9f)](https://hits.sh/github.com/eddie-backdev/)
-
+  
 </div>
