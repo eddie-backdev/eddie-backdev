@@ -58,12 +58,15 @@
 
 
 <div align="center">
-  <br><br>
 
-  <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddie-backdev&show_icons=true&theme=radical) -->
+  <br><br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddie-backdev&langs_count=10&layout=compact&theme=radical)](https://github.com/eddie-backdev)
+  [![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=eddie-backdev&langs_count=10&layout=compact&theme=radical&langs_count=8)](https://github.com/eddie-backdev)
+
+
+  ![Eddie's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=eddie-backdev&show_icons=true&include_all_commits=true&count_private=true&theme=radical&custom_title=Eddie%20Lee%E2%80%99s%20GitHub%20Statistics%20Overview%20Report)
+
   
-[![Hits](https://hits.sh/github.com/eddie-backdev.svg?view=today-total&color=9f9f9f)](https://hits.sh/github.com/eddie-backdev/)
+  [![Hits](https://hits.sh/github.com/eddie-backdev.svg?view=today-total&color=9f9f9f)](https://hits.sh/github.com/eddie-backdev/)
 
 </div>
