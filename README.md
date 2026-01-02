@@ -48,11 +48,14 @@
   
   <br>
 
-  
+  <!--
   [![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=eddie-backdev&langs_count=10&layout=compact&theme=radical&langs_count=8)](https://github.com/eddie-backdev)
 
   ![Eddie's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=eddie-backdev&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
-  
+
+  [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eddie-backdev&langs_count=10&layout=compact&theme=radical&langs_count=8)](https://github.com/Pranesh-2005/github-readme-stats) -->
+
+  [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=eddie-backdev&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 </div>
 
