@@ -2,7 +2,7 @@
 
 <div align="left">
   
-## 👨‍💻 Backend Developer Eddie
+## 👨‍💻 Developer Eddie
 
 <p>
 안녕하세요! <strong>오늘보다 나은 내일은 만드는</strong> 개발자 <strong>Eddie 이희용</strong>입니다.<br>
