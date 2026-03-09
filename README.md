@@ -64,6 +64,7 @@
   ## 🧑‍💻 Contact me
   <a href="https://instagram.com/2._.hyong" target="_blank"><img src="https://img.shields.io/badge/2.__.hyong-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:devleehy@gmail.com"><img src="https://img.shields.io/badge/devleehy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:devleehy@gmail.com)]"/></a>
+  <a href="https://www.linkedin.com/in/heeyonglee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <div align="center">
   <br>
