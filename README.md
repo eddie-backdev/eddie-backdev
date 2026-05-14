@@ -7,13 +7,17 @@
 <p>
 안녕하세요! <strong>오늘보다 나은 내일은 만드는</strong> 개발자 <strong>Eddie 이희용</strong>입니다.<br>
 </p>
-
   
-<br>
+</div>
+
+## 🚀 Live Service
+
+<div align="left">
+  <h3>🗺️ <a href="https://itplace.click" target="_blank">IT:PLACE</a> <strong>위치 기반 멤버십 혜택 추천 서비스</strong></h3>
 </div>
 
 <div align="left">
-  
+
   ## 📚 Teck Stack  and  🧐 Interested In
 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -36,7 +40,7 @@
 
 
   <br><br>
-
+<!--
 ## 📖 Education & Achievements 🏅
 
 <div align="left">
@@ -45,8 +49,8 @@
 
   - **최종 융합 프로젝트 우수상 ([<ins>IT:PLACE</ins>](https://github.com/ureca-itPlace))**
   - **우수 훈련생**
-  
-  <br>
+  -->
+  <br>  
 
   <!--
   [![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=eddie-backdev&langs_count=10&layout=compact&theme=radical&langs_count=8)](https://github.com/eddie-backdev)
